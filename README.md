@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briancolfer
 - 👀 I’m interested in ... Ruby, Swift, Python, DevOps, CICD
-- 🌱 I’m currently learning ... Kotlin, Rails HotWire, Swift
+- 🌱 I’m currently learning ... Kotlin, Rails HotWire, Python, Swift
 - 💞️ I’m looking to collaborate on ... Rails service projects, CICD 
 - 📫 How to reach me ...  Twitter, LinkedIn, FaceBook: @briancolfer 
 
